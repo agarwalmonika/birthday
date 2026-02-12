@@ -1,0 +1,124 @@
+*{
+    font-family: "Happy Monkey", system-ui;
+}
+#photo{
+    width:150px;
+    height:150px;
+    border-radius: 50% ;
+    border-color: 3px solid pink;
+    border: 6px solid pink;
+    
+}
+body{
+    text-align: center;
+    background: linear-gradient(pink, rgb(154, 218, 244));
+    color:#ffff;
+  
+}
+h1{
+text-shadow: 0px 0px 5px rgb(33, 31, 31);
+}
+.year{
+text-shadow: 0px 0px 3px rgb(33, 31, 31);
+background-color: pink;
+padding:5px 10px;
+border-radius: 7px;
+margin-bottom:10px;
+margin-top: 5px;
+}
+.date{
+text-shadow: 0px 0px 1px rgb(33, 31, 31);
+background-color: pink;
+padding:5px 10px;
+border-radius: 7px;
+margin-bottom:10px;
+margin-top: 5px;
+}
+#birthday{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.gift-section{
+    maargin-top:50px;
+}
+.gift-title{
+    margin-bottom: 10px;
+}
+.gift-hint{
+    margin-top: 0px;
+}
+
+.gift-cover{
+    margin: 0 auto;
+    width:300px;
+    height:300px;
+    border: 5px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/500/692/non_2x/modern-seamless-pattern-with-colorful-hand-draw-illustration-of-christmas-gifts-for-wallpaper-textile-print-pattern-fills-web-page-surface-textures-wrapping-paper-design-of-presentation-vector.jpg");
+background-size: cover;
+}
+.gift-cover:hover{
+    background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHEzaHVhZG56a2Vydm56Znd3NjlyZmo5dmxjNGUya3VoeHFjdWhndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fUQ4rhUZJYiQsas6WD/200.webp");
+}
+
+.gift-cover2{
+       margin: 0 auto;
+    width:300px;
+    height:300px;
+    border: 5px solid white;
+    border-radius: 10px;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/011/500/692/non_2x/modern-seamless-pattern-with-colorful-hand-draw-illustration-of-christmas-gifts-for-wallpaper-textile-print-pattern-fills-web-page-surface-textures-wrapping-paper-design-of-presentation-vector.jpg");
+background-size: cover;
+   
+}
+.gift-cover2:hover{
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHEzaHVhZG56a2Vydm56Znd3NjlyZmo5dmxjNGUya3VoeHFjdWhndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/31lPv5L3aIvTi/200.webp");
+}
+
+
+.gift-cover3{
+       margin: 0 auto;
+    width:300px;
+    height:300px;
+    border: 5px solid white;
+    border-radius: 10px;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/011/500/692/non_2x/modern-seamless-pattern-with-colorful-hand-draw-illustration-of-christmas-gifts-for-wallpaper-textile-print-pattern-fills-web-page-surface-textures-wrapping-paper-design-of-presentation-vector.jpg");
+background-size: cover;
+   
+}
+.gift-cover3:hover{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FrZnlrMjlocGJzdWw2bGZwaGdwZnIzYmpheWQ4bXcxYWhqZXF4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY8c5SKwiNf1EtZKGs/giphy.gif")
+}
+
+
+.gift-cover4{
+       margin: 0 auto;
+    width:500px;
+    height:300px;
+    border: 5px solid white;
+    border-radius: 10px;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/011/500/692/non_2x/modern-seamless-pattern-with-colorful-hand-draw-illustration-of-christmas-gifts-for-wallpaper-textile-print-pattern-fills-web-page-surface-textures-wrapping-paper-design-of-presentation-vector.jpg");
+background-size: cover;
+   
+}
+.gift-cover4:hover{
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6NW5lbHFsbHJwYXM2NXk2M3pxYjRydG9oMjY1MWdhdm9lOHVqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6g9fN5IYV9Oc8/200.webp");
+}
+
+
+.gift-cover5{
+       margin: 0 auto;
+    width:500px;
+    height:300px;
+    border: 5px solid white;
+    border-radius: 10px;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/011/500/692/non_2x/modern-seamless-pattern-with-colorful-hand-draw-illustration-of-christmas-gifts-for-wallpaper-textile-print-pattern-fills-web-page-surface-textures-wrapping-paper-design-of-presentation-vector.jpg");
+background-size: cover;
+   
+}
+.gift-cover5:hover{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG04ZHkxa3RrOWl0emwwaGQzMGFpb2YyYXJ6ZmU5YXN5ZHY0N3NoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nw5B8UrC2Q9Xi/200.webp");
+}
